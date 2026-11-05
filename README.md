@@ -63,7 +63,6 @@ The Roboflow class-count view showed uneven representation across the categories
 - **Final evaluation checkpoint:** `best.pt` from the continued training run (`train-3` in the notebook).
 - 
 ## Model Evaluation
-<img width="3000" height="2250" alt="download" src="https://github.com/user-attachments/assets/c657b1dd-9c07-4701-94e4-49273432d9af" />
 
 The trained detector was evaluated on the **36-image test split**, containing **109 annotated food instances**, using Ultralytics validation metrics.
 
